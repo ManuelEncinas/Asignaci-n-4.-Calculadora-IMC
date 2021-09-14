@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Asignacion4_CalculadoraIMC_Encinas</string>
+    <string name="estatura">Estatura</string>
+    <string name="peso">Peso</string>
+    <string name="IMC">Calcular IMC</string>
+
+</resources>
